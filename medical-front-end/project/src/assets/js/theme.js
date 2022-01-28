@@ -1,6 +1,6 @@
 
 $('document').ready(function() {
-  $('#doctorSlideshow').owlCarousel({
+  $('#doctorSlideshow,#doctorSlideshow2').owlCarousel({
     nav: true,
     dots: false,
     navText: ["<span class='mai-arrow-back'></span>", "<span class='mai-arrow-forward'></span>"],
