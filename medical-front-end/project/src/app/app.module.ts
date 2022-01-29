@@ -10,8 +10,8 @@ import { OffersComponent } from './components/offers/offers.component';
 import { DoctorsComponent } from './components/doctors/doctors.component';
 import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
-import { DoctorDetailsComponent } from './doctor-details/doctor-details.component';
-import { DoctorReviewsComponent } from './doctor-reviews/doctor-reviews.component';
+import { DoctorDetailsComponent } from './components/doctor-details/doctor-details.component';
+import { DoctorReviewsComponent } from './components/doctor-reviews/doctor-reviews.component';
 
 @NgModule({
   declarations: [
